@@ -1,0 +1,67 @@
+h1 {
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+.kotak {
+height : 200px;
+width : 1200px;
+border : 1px ;
+margin : auto;
+margin-bottom :10px;
+}
+.kotak2 {
+height : 800px;
+width : 1200px;
+margin : auto;
+margin-bottom :10px;
+}
+.kiri  {
+height : 800px;
+width : 1000px;
+margin : auto;
+margin-bottom :10px;
+float : left;
+}
+.kiri p {
+	font-size: 14px;
+	text-align: justify;
+}
+.kanan {
+height : 800px;
+width : 180px;
+border : 1px solid black;
+margin : auto;
+margin-bottom :10px;
+float : right;
+}
+.kotak3 {
+height : 200px;
+width : 1200px;
+border : 1px solid black;
+margin : auto;
+margin-top: 30px;
+}
+.menu {
+width : 1200px;
+height:50px;
+
+margin : auto;
+margin-bottom :10px;
+background:  #663300;
+/* #994d00 */
+color: #fff;
+}
+.menu-button {
+margin: auto;
+height:35px;
+float: left;
+padding-right: 20px;
+padding-left: 20px;
+padding-top: 15px;
+}
+.menu-button:hover {
+	background:  #4d2600;
+}
